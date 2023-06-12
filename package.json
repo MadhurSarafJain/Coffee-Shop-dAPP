@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.15.0"
+  },
+  "dependencies": {
+    "start": "node index.js",
+    "ethers": "^5.7.2",
+    "dotenv": "^8.2.0"
+  }
+}
